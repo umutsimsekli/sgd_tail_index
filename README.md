@@ -6,7 +6,7 @@ Please use the run.py as a template to run bathces of experiments to reproduce t
 
 If you find this code useful, thank you for citing the following work:
 
-@inproceedings{Simsekli2019Tail,
+> @inproceedings{Simsekli2019Tail,
 author = {U. Simsekli and L. Sagun and M. Gurbuzbalaban}
 title = {A Tail-Index Analysis of Stochastic Gradient Noise in Deep Neural Networks},
 booktitle = {Proceedings of the 36th International Conference on Machine Learning, (ICML) 2019},
